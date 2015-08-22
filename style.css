@@ -1,0 +1,651 @@
+ul li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, table, th, td {margin:0; padding:0;}
+.clear{
+    clear: both;
+}
+
+.content{
+    margin: 0 auto;
+    width: 89.8%;
+}
+a{
+    text-decoration: none;
+  color: black;
+}
+.boxing
+{
+    box-sizing:border-box;
+    -moz-box-sizing:border-box; /* Firefox */
+    -webkit-box-sizing:border-box; /* Safari */
+
+}
+.bootstrapdemo{
+    display: none;
+}
+.mobile-header{
+    display: none;
+}
+.header{
+
+}
+
+.header-top{
+    width: 100%;
+    background-color: #016565;
+}
+
+.header-top-img{
+    display: inline-block;
+    float: left;
+    width: 20%;
+}
+.header-items{
+
+
+}
+.header-wrapper{
+    width: 89.8%;
+    margin:0 auto  ;
+
+}
+.header-top-img img{
+    width: 100% ;
+    padding-top: 20px;
+    height: 65px;
+
+}
+.header-items a{
+    color: #ffffff;
+
+}
+.header-function{
+    float: right;
+
+    height: 90px;
+    width: 70%;
+    margin-left: 1%;
+}
+.header-function ul{
+    overflow: auto;
+    float: right;
+    width: 70%;
+}
+.logo2 {
+    width: 3%;
+    margin-top: 30px;
+}
+
+.header-function li{
+    display: block;
+    float: left;
+    width: 20%;
+
+}
+.logo2 {
+    float: left;
+}
+.header-signin{
+    padding-top: 30px;
+    width: 20%;
+    margin-left: 5%;
+    text-align: left;
+    
+}
+.header-signin span{
+   text-decoration: underline;
+}
+.header-li-normalstyles{
+    padding-top: 40px;
+
+}
+.header-li-inputstyles{
+    padding-top: 30px;
+}
+
+/*.header-function a{*/
+    /*display: inline-block;*/
+
+/*}*/
+/*.header-function-a{*/
+    /*padding-top: 40px;*/
+/*}*/
+/*.header-function span{*/
+    /*padding-top: 20px;*/
+/*}*/
+
+.top-signin{
+    display: inline-block;
+    width: 90px;
+    padding-left: 24px;
+}
+.top-signin a{
+    padding:0;
+
+}
+.header-function span{
+    padding-left: 2%;
+}
+.header-function img{
+
+
+    width: 8%;
+    display: inline-block;
+    padding-left: 2%;
+
+}
+.header-function input{
+    height: 30px;
+    width: 100%;
+
+    background-color: #367d79;
+    border-color: transparent;
+}
+.border{
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px solid #c6c6c6;
+    margin-top: -1px;
+}
+.menu-container{
+    width: 100%;
+
+}
+.navigation{
+    width: 89.8%;
+    margin: 0 auto;
+
+}
+.nav-menu-item a{
+    display: inline-block;
+    width: 100%;
+    height: 52px;
+    font-size: 10px;
+    text-align: center;
+
+}
+.nav-menu-item button{
+    height: 36px;
+    background-color: #c6c6c6;
+    border: 0px;
+    padding: 0 10%;
+}
+.nav-menu-item a:hover{
+    display: inline-block;
+    width: 100%;
+    height: 52px;
+    font-size: 10px;
+    text-align: center;
+    border-bottom: 1px solid red;
+    color: red;
+
+}
+.a-active{
+    border-bottom: 1px solid red;
+    color: red;
+}
+
+.nav-menu-item span{
+    margin:12px auto;
+    display: block;
+    padding: 4px 0;
+    border-left: 1px dashed #c6c6c6;
+
+
+
+}
+.nav-menu-item span:last-child{
+
+
+
+
+
+}
+.navigation li{
+    display: inline-block;
+    width: 16%;
+}
+.border{
+    border-bottom: 1px solid #c6c6c6;
+}
+.main-container{
+    background-color: #ebedec;
+    margin-top: 20px;
+    height: 400px;
+}
+.textarea{
+    display: inline-block;
+    width: 45%;
+    float: left;
+}
+.banner{
+    display: inline-block;
+    width: 52%;
+    float: left;
+    margin-top: 20px;
+}
+.banner-content img{
+    height: 260px;
+    width: 460px;
+}
+.textarea{
+    margin-left: 30px;
+    margin-top: 60px;
+}
+.title{
+    font-size: 25px;
+
+    color: #016565;
+}
+.title span{
+    font-weight: bold;
+}
+.title h3{
+    font-weight: normal;
+}
+
+.two-button{
+    width: 100%;
+
+}
+.two-button-container{
+    width: 50%;
+    margin: -40px auto;
+    background-color: #ffffff;
+    text-align: center;
+    border-bottom: 2px solid #c6c6c6;
+}
+
+.two-button-container a{
+    display: inline-block;
+    text-align: center;
+    margin: 0 50px;
+    line-height: 30px;
+    padding-bottom: 15px;
+    color: black;
+
+}
+.two-button-container a:hover i{
+    background-color: #c1b59b;
+}
+.two-button-container a:hover{
+    color:#367d79;
+}
+.two-button-container i{
+    color: white;
+    background-color: #016565;
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    padding: 5px;
+}
+.textarea{
+    width: 47%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.banner{
+    width: 47%;
+}
+.content{
+    width: 95%;
+}
+.banner-content img{
+    width: 100%;
+}
+
+.our-fly-class{
+    width: 100%;
+
+
+    margin-top: 70px;
+    /*for test*/
+}
+.our-fly-class-container{
+    max-width: 920px;
+    margin: 0 auto;
+    width: 90%;
+}
+.our-fly-class-title{
+    text-align: center;
+    max-width: 440px;
+    margin: 0 auto;
+    width: 65%;
+}
+.our-fly-class-title p{
+    display: block;
+    margin-top: 12px;
+}
+.our-fly-class h3{
+    font-size: 27px;
+    color: #016565;
+
+
+}
+.our-fly-class-detail{
+    overflow: auto;
+
+
+}
+.our-fly-class-detail1{
+    width: 47%;
+    float: left;
+    margin-top: 40px;
+}
+.our-fly-class-detail1-blank{
+    margin-left: 6%;
+}
+.our-fly-class-text1,.our-fly-class-text2{
+    float: left;
+    width: 75% ;
+
+
+}
+.our-fly-class-text1{
+    padding-top: 1rem;
+}
+.our-fly-class-detail1 h4{
+    font-size: 20px;
+    font-weight: 900;
+    display: block;
+}
+.our-fly-class-text1 i{
+    display: none;
+}
+.our-fly-class-detail1 p{
+    font-size: 12px;
+    display: block;
+    width: 90%;
+    margin-top: 15px;
+}
+.our-fly-class-detail1 h5{
+    display: block;
+    margin-top: 16px;
+}
+.our-fly-class-detail1 span{
+    margin-top: 9px;
+    display: block;
+    font-size: 12px;
+}
+@media screen and  (min-width: 481px) and (max-width: 720px){
+    .our-fly-class-detail1 p{
+        width: 100%;
+    }
+    .our-fly-class-text1,.our-fly-class-text2{
+       width: 100%;
+    }
+
+}
+.bag-item{
+    float: right;
+    width: 23%;
+    text-align: center;
+    margin-top: 32px;
+}
+@media screen and (min-width: 481px) and (max-width: 720px){
+    .bag-item{
+        float: left;
+        width: 100%;
+        text-align: left;
+        margin-top: 0;
+    }
+
+
+}
+.bag-item p{
+    font-size: 12px;
+    font-weight: 900;
+}
+.bag-item img{
+    width: 60%;
+}
+@media screen and (min-width: 481px) and (max-width: 720px){
+   .bag-item img{
+       width: 18%;
+       display: block;
+       float: left;
+
+   }
+    .bag-item p{
+        display: block;
+        width: 75%;
+        float: left;
+        margin-left: 5%;
+        padding-top: 0.5rem;
+        font-weight: 900;
+    }
+
+
+}
+
+@media screen and (max-width: 480px) {
+    .our-fly-class-detail1 p{
+
+        display: none;
+    }
+    .our-fly-class-detail1{
+        width: 100%;
+        margin: 0;
+        border-bottom: 1px solid #c6c6c6;
+
+    }
+    .our-fly-class-text1{
+        padding: 0;
+    }
+    .our-fly-class-detail1 h4{
+        padding: 1rem 1rem;
+        color: #367d79;
+        float: left;
+
+    }
+    .our-fly-class-detail1 i{
+        display: block;
+        float: right;
+        padding: 1rem 1rem;
+        font-size: 2rem;
+        color: #367d79;
+    }
+    .our-fly-class-text1 a:hover i{
+        color: crimson;
+    }
+
+    .our-fly-class-text1{
+        width: 100%;
+    }
+    .main-container{
+        overflow: auto;
+        height: auto;
+
+    }
+    .our-fly-class-title{
+        width: 85%;
+        margin-top: 2rem;
+    }
+
+    .sm-h4-first-border{
+        border-top: 1px solid #c6c6c6;
+        margin-top: 3rem;
+    }
+
+    .our-fly-class-detail1 img{
+        display: none;
+    }
+    .our-fly-class-text2{
+        display: block;
+        display: none;
+    }
+    .bag-item{
+        display: block;
+        display: none;
+    }
+
+}
+.detailimg{
+    width: 100%;
+}
+@media screen and (max-width:480px) {
+    .header{
+        display: none;
+    }
+    .mobile-header{
+        background-color: #016565;
+        text-align: center;
+
+    }
+
+    .menu-button,.logo{
+        display: inline;
+    }
+    .menu-button{
+        float: left;
+    }
+    .textarea{
+        width: 80%;
+        margin-left: 0;
+        margin: 4rem 10% 0;
+        text-align: center;
+        height: 190px;
+        display: block;
+    }
+    .main-container{
+        width: 100%;
+        margin-top: 0;
+    }
+    .banner-content{
+        width: 100%;
+    }
+    .manytext p{
+        display: block;
+        padding-top: 10px;
+        line-height: 22px;
+        font-size: 15px;
+        color: darkslategrey
+    }
+    .banner{
+        width: 100%;
+    }
+    .banner-content img{
+        width: 100%;
+    }
+    .mobile-header-container img{
+        height: 2.75rem;
+    }
+    .signin{
+        float: right;
+        color: white;
+        padding-top: 0.5rem;
+        padding-right: 1rem;
+        width: auto;
+    }
+    .signin a{
+        color: white;
+    }
+    .mobile-header{
+        display: block;
+    }
+    .two-button{
+        display: none;
+    }
+    .bootstrapdemo{
+        display: inherit;
+        margin-top: 3rem;
+    }
+    .our-fly-class-detail{
+        display: none;
+    }
+}
+
+@media screen and (min-width:481px) and (max-width:720px){
+    .header{
+        display: none;
+    }
+    .mobile-header{
+        background-color: #016565;
+        text-align: center;
+
+        display: block;
+    }
+    .signin{
+        float: right;
+    }
+    .menu-button,.logo{
+        display: inline;
+    }
+    .menu-button{
+        float: left;
+    }
+    .mobile-header-container img{
+        height: 2.75rem;
+    }
+    .signin{
+        color: white;
+        padding-top: 0.5rem;
+        padding-right: 1rem;
+    }
+    .signin a{
+        color: white;
+    }
+    .textarea{
+        width: 47%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    .banner{
+        width: 47%;
+    }
+    .content{
+        width: 95%;
+    }
+    .banner-content img{
+        width: 100%;
+    }
+    .two-button-container{
+        width: 74.5%;
+    }
+
+}
+
+.panel-title i{
+    display: block;
+    float: right;
+    padding-top: 2px;
+}
+.panel-title a{
+    display: block;
+    float: left;
+    width: 100%;
+}
+.panel-heading a:hover {
+   color: red;
+}
+.panel-title {
+    overflow: hidden;
+}
+.panel-heading{
+    width: 90%;
+    margin: 0 auto;
+}
+.panel-heading a{
+    color: #016565;
+    font-size: 20px;
+}
+.panel-default{
+
+}
+.panel-body{
+    border-top-color: inherit;
+}
+.panel-default > .panel-heading {
+    background-color:#ffffff;
+}
+.panel-default{
+    border-color: transparent;
+}
+.panel-heading {
+    border-top: 1px solid #c6c6c6;
+    border-bottom: 1px solid #c6c6c6;
+}
